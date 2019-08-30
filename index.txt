@@ -1,7 +1,7 @@
 git error 53fgfdghfgdhfgdhdf
-dfghfdg
+git error 53sdgdsfgsdgdgsdfgsdfg<<<<<<< .minedfghfdg
 dfh
 d
 fgh
 fg
-h
+h=======>>>>>>> .theirs
